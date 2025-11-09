@@ -37,11 +37,9 @@ Order ID, Product ID, Product Category, Store Location, Order Date, Revenue, and
 
 (Dataset used for learning and demonstration purposes.)
 
-📷 Dashboard Preview
-
-(Add your screenshot here)
-
+## 📷 Dashboard Preview
 ![Maven Toys Dashboard](Screenshot 2025-11-09 003452.png)
+
 
 🚀 Insights & Impact
 
