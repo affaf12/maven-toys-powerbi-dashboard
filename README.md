@@ -41,7 +41,7 @@ Order ID, Product ID, Product Category, Store Location, Order Date, Revenue, and
 
 (Add your screenshot here)
 
-![Maven Toys Dashboard](dashboard_screenshot.png)
+![Maven Toys Dashboard](Screenshot 2025-11-09 003452.png)
 
 🚀 Insights & Impact
 
